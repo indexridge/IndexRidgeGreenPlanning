@@ -1,0 +1,12 @@
+{
+  "generated_at_utc": "2026-06-28T09:42:54+00:00",
+  "source": "Planning Data platform planning-application dataset",
+  "metadata_url": "https://www.planning.data.gov.uk/dataset/planning-application.json",
+  "licence": "Licensed under the [Open Government Licence v.3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).",
+  "attribution": "© Crown copyright and database right 2026",
+  "dataset_entity_count": {
+    "dataset": "planning-application",
+    "count": 100627
+  },
+  "disclaimer": "Informational public-data monitoring only; not planning, legal, investment, engineering, environmental, or regulatory advice. Verify against official sources."
+}

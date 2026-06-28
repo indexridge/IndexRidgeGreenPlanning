@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Planning Data platform - planning-application dataset",
+    "owner": "Department for Levelling Up, Housing and Communities / UK Government Planning Data platform",
+    "metadata_url": "https://www.planning.data.gov.uk/dataset/planning-application.json",
+    "api_url_template": "https://www.planning.data.gov.uk/entity.json?dataset=planning-application&limit={limit}&offset={offset}",
+    "licence": "Open Government Licence v3.0",
+    "licence_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "attribution": "© Crown copyright and database right 2026",
+    "status": "approved_for_mvp_sample",
+    "notes": "Use for public-data sample and attribution. Do not claim full UK coverage from this source alone."
+  }
+]
